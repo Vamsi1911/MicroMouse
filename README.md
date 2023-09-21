@@ -1,4 +1,4 @@
-# mms <a href="https://www.buymeacoffee.com/mackorone"><img align="right" height=36 alt="Save the Children" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+# Micromouse
 
 ![](img/mms.gif)
 
@@ -514,47 +514,8 @@ qmake && make
 ../../bin/mms
 ```
 
-## Related Projects
-
-- [@zdasaro](https://github.com/zdasaro) wrote a proxy for the Priceton University Robotics Club: [mms-competition-proxy](https://github.com/zdasaro/mms-competition-proxy)
-- [@P1n3appl3](https://github.com/P1n3appl3) created an Arch Linux package: [mms-git](https://aur.archlinux.org/packages/mms-git/)
-
-## Citations
-
-Feel free to open a pull request if you want your work listed here!
-
-#### Papers
-
-- <https://link.springer.com/article/10.1007/s42452-021-04239-7>
-- <https://ictaes.org/wp-content/uploads/2020/09/IJAE-2020-Vol.03-No.02/7_Sanjaya_Vol3_No2.pdf>
-- <https://www.researchgate.net/publication/361212084_International_Journal_of_Advanced_Engineering_Optimizing_Tremaux_Algorithm_in_Micromouse_Using_Potential_Values>
-
-#### Posts
-
-- <https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510>
-- <https://www.technologyx2.com/proj_robot_rover/2020/6/15/project-micromouse-robot-simulator>
-- <http://iamsudharsan.com/maze-solver-robot/>
-- <https://www.instructables.com/Micro-Mouse-for-Beginnersth/>
-- <http://micromouseusa.com/?p=2288>
-
-#### Videos
-
-- <https://www.youtube.com/watch?v=6y4nrnfZ1k0>
-- <https://www.youtube.com/watch?v=-r8a8aPRYAQ>
-
-#### Repos
-
-- <https://github.com/sohamroy19/a-maze-jerry>
-- <https://github.com/Madhunc5229/MicroMouse_MazeSolver>
-- <https://github.com/Karansutradhar/Maze-Solver-Robot-Depth-First-Search>
-- <https://github.com/nalindas9/enpm809y-final-project>
-- <https://github.com/james-ralph8555/DrexelMicromouse2020>
-- <https://github.com/darshit-desai/Maze-Solver-simulation-using-Wall-Following-Algorithm-OOP>
 
 
-## Acknowledgements
 
-| Name                                                          | Author            | Used For              |
-|---------------------------------------------------------------|-------------------|-----------------------|
-| [polypartition](https://github.com/ivanfratric/polypartition) | Ivan Fratric      | Polygon Triangulation |
-| [Qt](https://www.qt.io/)                                      | The Qt Company    | Framework and GUI     |
+
+
